@@ -4,6 +4,8 @@
 
 包含了向量计算器、单矩阵计算器、双矩阵计算器、 线性方程组求解器4个模块。
 
+解方程组还算比较实用，可以帮小学生做作业（bushi）
+
 # 截图
 ![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-5.png)
 
