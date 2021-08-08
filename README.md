@@ -17,4 +17,5 @@
 
 ![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-2.png?raw=true)
 
-
+# 下载地址
+[Calculator.exe](https://github.com/lichengchen/calculator/releases/download/1.0/Calculator.exe)
