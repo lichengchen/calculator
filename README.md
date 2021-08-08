@@ -5,10 +5,10 @@
 包含了向量计算器、单矩阵计算器、双矩阵计算器、 线性方程组求解器4个模块。
 
 # 截图
-![img]https://github.com/lichengchen/calculator/blob/main/pics/p5-1.png
+![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-1.png)
 
-![img]https://github.com/lichengchen/calculator/blob/main/pics/p5-4.png
+![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-4.png)
 
-![img]https://github.com/lichengchen/calculator/blob/main/pics/p5-2.png
+![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-2.png)
 
-![img]https://github.com/lichengchen/calculator/blob/main/pics/p5-3.png
+![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-3.png)
