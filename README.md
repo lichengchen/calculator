@@ -9,6 +9,8 @@
 # 截图
 ![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-5.png)
 
+![img](https://github.com/lichengchen/calculator/blob/main/pics/p5.png)
+
 ![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-3.png)
 
 ![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-4.png)
