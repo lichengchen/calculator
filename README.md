@@ -7,6 +7,9 @@
 解方程组还算比较实用，可以帮小学生做作业（bushi）
 
 # 截图
+
+![gitment]({{'https://github.com/lichengchen/calculator/blob/main/pics/p5-5.png' | prepend: site.baseurl}})
+
 ![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-5.png?raw=true)
 
 ![img](https://github.com/lichengchen/calculator/blob/main/pics/p5.jpg?raw=true)
