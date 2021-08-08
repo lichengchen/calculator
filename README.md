@@ -8,8 +8,6 @@
 
 # 截图
 
-![gitment]({{'https://github.com/lichengchen/calculator/blob/main/pics/p5-5.png' | prepend: site.baseurl}})
-
 ![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-5.png?raw=true)
 
 ![img](https://github.com/lichengchen/calculator/blob/main/pics/p5.jpg?raw=true)
