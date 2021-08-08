@@ -7,14 +7,14 @@
 解方程组还算比较实用，可以帮小学生做作业（bushi）
 
 # 截图
-![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-5.png)
+![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-5.png?raw=true)
 
-![img](https://github.com/lichengchen/calculator/blob/main/pics/p5.jpg)
+![img](https://github.com/lichengchen/calculator/blob/main/pics/p5.jpg?raw=true)
 
-![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-3.png)
+![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-3.png?raw=true)
 
-![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-4.png)
+![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-4.png?raw=true)
 
-![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-2.png)
+![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-2.png?raw=true)
 
 
